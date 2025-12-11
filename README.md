@@ -8,7 +8,7 @@ Everything for Sem 1 is stored here in one place for quick access and collaborat
 
 ## 📁 **Contents**
 
-<a href="https://github.com/AJCE-CSB-2029/Semester-1/tree/main/Python">
+[Python](href="https://github.com/AJCE-CSB-2029/Semester-1/tree/main/Python)
 
 ---
 
