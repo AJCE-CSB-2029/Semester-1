@@ -9,7 +9,7 @@ Everything for Sem 1 is stored here in one place for quick access and collaborat
 ## 📁 **Contents**
 
 * [**Python**](https://github.com/AJCE-CSB-2029/Semester-1/tree/74ee560236119efcf12aeb795b6961e706d52fea/Python)
-  <br><br><br>
+  
   * [**Lab Programs**](https://github.com/AJCE-CSB-2029/Semester-1/tree/adb71c5179bf324ece953e9b271774d5020e163a/Python/Lab%20Programs) 
   
 ---
