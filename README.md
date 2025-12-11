@@ -8,17 +8,7 @@ Everything for Sem 1 is stored here in one place for quick access and collaborat
 
 ## 📁 **Contents**
 
-* 🧑‍💻 **Lab Programs**
-  Python, and other first-semester programming exercises.
-
-* 📝 **Notes & Study Materials**
-  Lecture notes, PDFs, reference materials, and solved examples.
-
-* 📂 **Assignments**
-  Weekly tasks, lab sheets, and written work.
-
-* 🚀 **Mini Projects**
-  Small programming or hardware-related projects done in Semester 1.
+<a href="https://github.com/AJCE-CSB-2029/Semester-1/tree/main/Python">
 
 ---
 
